@@ -82,7 +82,7 @@ The dashboard delivers a **complete picture of Zepto’s outlet performance**, h
 ---
 
 ###  **Dashboard Preview**
-![Zepto Excel Dashboard](./Dashboard_Preview.png)
+![Zepto Excel Dashboard](https://github.com/mueez-mapari2005/Zepto-Excel-Dashboard/blob/main/Zepto%20Dashboard.png)
 
 ---
 
